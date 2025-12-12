@@ -23,7 +23,7 @@ This project folder will contain:
 - `verification-log.md` - Verification history
 - `evidence/` - Versioned artifacts
 
-**Remember the project name** - you'll reference it throughout, and `/verify` and `/iterate` will need it.
+**Remember the project name** - you'll reference it throughout, and `/verify` will need it.
 
 ---
 

@@ -14,7 +14,6 @@ Task-agnostic, iterative work with independent verification. Supports multi-mode
 | `/soa` | Self-organizing agent - auto-creates project, starts work |
 | `/soa --model gemini` | Use Gemini for generation |
 | `/verify [project]` | Independent verification (defaults to latest project) |
-| `/iterate [project]` | Force continuation (defaults to latest project) |
 
 Each command file contains detailed instructions. Run the command to see full guidance.
 

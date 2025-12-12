@@ -39,7 +39,6 @@ Claude: [Delivers final implementation]
 | `/soa` | Self-organizing agent - auto-creates project, starts work |
 | `/soa --model gemini` | Use Gemini for generation |
 | `/verify [project]` | Independent quality check (defaults to latest) |
-| `/iterate [project]` | Force continuation (defaults to latest) |
 
 ## Multi-Model Support
 
