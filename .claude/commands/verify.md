@@ -2,6 +2,8 @@
 
 You are initiating VERIFICATION MODE. This launches an independent review of work against stated criteria.
 
+**REMINDER**: This command MUST be run before presenting work as complete to the user. If you're seeing this because you ran `/verify`, good. If SOA tried to skip verification and ask the user if they're satisfied, that violates Hard Rule 4.
+
 ---
 
 ## STEP 0: DETERMINE PROJECT

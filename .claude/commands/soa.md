@@ -117,51 +117,29 @@ What does "done" look like? Be specific.
 
 ---
 
-## STEP 2: PLAN THE APPROACH
+## STEP 2: PLAN THE APPROACH (DEEP THINKING REQUIRED)
 
-Create `projects/<project>/plan.md` with a structure appropriate to THIS task.
+**Do not rush planning.** Poor planning causes wasted iterations downstream.
 
-The plan structure depends on what you're doing:
+### Mandatory Planning Questions
 
-**For coding tasks:**
-```markdown
-## Phases
-1. Understand existing code
-2. Design approach
-3. Implement
-4. Test
-5. Refine
-```
+Before writing plan.md, answer ALL of these:
 
-**For research tasks:**
-```markdown
-## Phases
-1. Define questions
-2. Gather information
-3. Analyze findings
-4. Synthesize conclusions
-```
+1. **Artifact Dependencies**: What must be complete before something else can begin?
+   - List explicitly: "X must be done before Y because..."
+   - If dependencies exist → plan iterates X to completion before starting Y
 
-**For writing tasks:**
-```markdown
-## Phases
-1. Outline
-2. Draft
-3. Revise
-4. Polish
-```
+2. **Quality Gates**: Which artifacts have their own quality bar?
+   - Each gated artifact gets its own iteration cycle
+   - Don't batch everything into one "iterate if needed" step at the end
 
-**For problem-solving:**
-```markdown
-## Phases
-1. Understand problem
-2. Explore solutions
-3. Evaluate options
-4. Implement chosen approach
-5. Validate
-```
+3. **Consistency Requirements**: Does anything need to match/be consistent?
+   - If yes → identify what reference artifacts are needed FIRST
+   - Plan: create references, then use them for production artifacts
 
-You decide what phases make sense. Don't force a structure that doesn't fit.
+4. **Iteration Strategy**: For each major artifact:
+   - What does A+ look like for THIS specific artifact?
+   - How will you assess it? What evidence proves quality?
 
 ### Plan Template
 
@@ -171,14 +149,26 @@ You decide what phases make sense. Don't force a structure that doesn't fit.
 **Task**: [brief description]
 **Status**: 🟡 IN PROGRESS
 
-## Approach
-[How you'll tackle this task]
+## Artifact Dependency Graph
+[What depends on what - be explicit]
+- [Artifact A] → no dependencies, start here
+- [Artifact B] → depends on A being complete
+- [Artifact C] → depends on B being complete
 
-## Phases
-[Task-appropriate phases]
+## Quality Gates
+| Artifact | Quality Bar | Assessment Method |
+|----------|-------------|-------------------|
+| [name]   | [target]    | [how to evaluate] |
 
-## Checkpoints
-[When will you pause to assess progress?]
+## Phases (Ordered by Dependencies)
+[Each phase completes before next begins]
+
+Phase 1: [First artifact/concept]
+- Iterate until quality gate passed
+
+Phase 2: [Next artifact]
+- Only begin after Phase 1 complete
+- ...
 
 ## Evidence Trail
 [What artifacts will you create along the way?]
@@ -187,6 +177,21 @@ You decide what phases make sense. Don't force a structure that doesn't fit.
 | Version | Date | Description | Status |
 |---------|------|-------------|--------|
 | v1 | | | |
+```
+
+### Multi-Modal Tasks (Text + Images, Code + Tests, etc.)
+
+When task involves multiple modalities:
+
+1. **Complete upstream modality first** - e.g., text/concept must be A+ before images
+2. **Create reference artifacts** - for anything requiring consistency
+3. **Use references in production** - don't rely on text descriptions alone
+
+Example for visual tasks:
+```
+Phase 1: Concept/Text (iterate to A+)
+Phase 2: Reference Images (character sheets, style guides)
+Phase 3: Production Images (using references)
 ```
 
 ---
@@ -225,15 +230,36 @@ Execute Phase → Save Evidence → Assess Quality → Decision
                               Next iteration                  Move to verify
 ```
 
-### Self-Assessment Checkpoints
+### Self-Assessment Protocol (MANDATORY)
 
-At appropriate points (you decide when), ask:
-- Does this meet the success criteria?
-- What's working well?
-- What needs improvement?
-- Am I ready for verification, or do I need another iteration?
+After EVERY versioned artifact, you MUST:
 
-Document assessments in `projects/<project>/evidence/assessment-v[N].md`.
+1. **Rate explicitly**: "This is [X] against the [target] bar"
+2. **Compare to goal**: Is X >= target from goals.md?
+3. **Branch immediately based on result**:
+   - If X >= target → proceed to next phase or verify
+   - If X < target → "Below bar. Starting iteration [N+1]." and iterate immediately
+
+**Create assessment file**: `projects/<project>/evidence/assessment-[artifact]-v[N].md`
+
+```markdown
+## Assessment: [artifact] v[N]
+
+**Quality Bar**: [from goals.md]
+**Self-Rating**: [your rating]
+**Comparison**: [rating] vs [bar] = [PASS/BELOW]
+
+**If BELOW - What's Missing**:
+- [gap 1]
+- [gap 2]
+
+**Next Action**: [iterate immediately / proceed to next phase]
+```
+
+**DO NOT**:
+- Rate below bar and ask user if they want to continue
+- Rate below bar and present work as potentially complete
+- Skip the assessment file
 
 ### Using Gemini MCP Tools
 
@@ -329,6 +355,38 @@ Maximum 3 verification attempts. After that, present status honestly and ask use
 4. **Vague criteria** - Be specific about what "done" means
 5. **Ignoring triggers** - If user says "iterate until excellent", do it
 6. **Premature completion** - Don't stop because you're tired; stop when done
+7. **Asking user when below bar** - If self-assessment < target, iterate; don't ask
+
+---
+
+## HARD RULES (Non-Negotiable)
+
+These rules override your discretion. Follow them exactly.
+
+### Rule 1: Below Bar = Iterate Immediately
+If your self-assessment is below the quality bar defined in goals.md:
+- **DO NOT** ask the user if they want to continue
+- **DO NOT** present the work as "pretty good" or potentially complete
+- **MUST** immediately begin next iteration
+- Only ask user after 3+ iterations haven't reached the bar
+
+### Rule 2: Complete Dependencies Before Proceeding
+If artifact B depends on artifact A being high-quality:
+- **MUST** iterate on A until it meets its quality bar
+- **ONLY THEN** proceed to B
+- Example: Joke concept must be A+ before generating comic panels
+
+### Rule 3: Consistency Requirements Need References
+If task requires visual/stylistic consistency across multiple outputs:
+- **MUST** create reference artifacts first (character sheets, style guides, etc.)
+- **MUST** use those references (via reference_images or explicit inclusion) when creating production artifacts
+- Text descriptions alone are insufficient for consistency
+
+### Rule 4: Verify Before ANY Completion Signal
+Before presenting work as complete or asking if user is satisfied:
+- **MUST** run `/verify` first
+- If verify fails → iterate and re-verify
+- Only present to user after PASS or 3 failed verification attempts
 
 ---
 
@@ -354,10 +412,16 @@ Don't force writing-style phases on a coding task, or vice versa. Use judgment.
 ```
 0. CREATE PROJECT → projects/task-[timestamp]/
 1. UNDERSTAND → goals.md (criteria, quality bar)
-2. PLAN → plan.md (task-appropriate phases)
-3. EXECUTE → evidence/ (versioned artifacts)
+2. PLAN → plan.md (dependencies, quality gates, phases)
+3. EXECUTE → evidence/ (versioned artifacts + assessments)
 4. VERIFY → /verify <project> (independent check)
 5. DELIVER → final output to user
 ```
 
 **Always**: Version everything. Verify before done. Commit every change.
+
+**Hard Rules**:
+- Below bar = iterate immediately, don't ask user
+- Complete dependencies before proceeding to next phase
+- Consistency needs → create references first
+- Run /verify before ANY completion signal to user
