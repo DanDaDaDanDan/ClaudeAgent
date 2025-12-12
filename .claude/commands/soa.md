@@ -40,7 +40,7 @@ This project folder will contain:
 ### Model Usage
 
 - **`claude`** (default): Generate directly. No MCP call needed.
-- **`gemini`**: Use MCP tools from the `gemini` server:
+- **`gemini`**: Use MCP tools from the `mcp-gemini` server:
   - `generate_text` - Text generation with Gemini 3 Pro (thinking enabled)
   - `generate_image` - Image generation with Nano Banana / Nano Banana Pro
 
@@ -237,7 +237,7 @@ Document assessments in `projects/<project>/evidence/assessment-v[N].md`.
 
 ### Using Gemini MCP Tools
 
-When model is `gemini`, use the MCP tools from the `gemini` server.
+When model is `gemini`, use the MCP tools from the `mcp-gemini` server.
 
 #### generate_text
 
