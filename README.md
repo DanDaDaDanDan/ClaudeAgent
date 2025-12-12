@@ -54,11 +54,17 @@ Use different AI models for generation or verification:
 - **verification_model**: claude
 ```
 
-**MCP Tools** (via `mcp-gemini` server):
-- `generate_text` - Text generation with Gemini 3 Pro
-- `generate_image` - Image generation with Nano Banana / Nano Banana Pro
+**MCP Servers**:
+- `mcp-gemini` - Text generation with Gemini 3 Pro (thinking/reasoning)
+- `mcp-fal` - Image generation with Nano Banana / Nano Banana Pro (always use for images)
 
-Requires MCP server setup - see `../mcp-gemini/README.md`.
+See `../mcp-gemini/README.md` and `../mcp-fal/README.md` for setup.
+
+## Philosophy
+
+1. **Fail fast** - Surface problems immediately rather than papering over them
+2. **Be curious** - Explore, question assumptions, dig deeper
+3. **Don't guess, research** - When uncertain, investigate first
 
 ## How It Works
 

@@ -5,7 +5,8 @@ Task-agnostic, iterative work with independent verification. Supports multi-mode
 ## Philosophy
 
 1. **Fail fast** - Don't try to work around issues. Surface problems immediately rather than papering over them.
-2. **Don't guess, research** - When uncertain, investigate first. If still inconclusive after research, ask the user.
+2. **Be curious** - Explore, question assumptions, dig deeper. Curiosity leads to understanding.
+3. **Don't guess, research** - When uncertain, investigate first. If still inconclusive after research, ask the user.
 
 ## Commands
 
@@ -48,6 +49,7 @@ See `../mcp-gemini/README.md` and `../mcp-fal/README.md` for MCP server setup.
 2. **Version everything** - create v1, v2, v3... never overwrite
 3. **Verify before done** - run `/verify` before claiming completion
 4. **Commit every change** - `git add -A && git commit -m "description"`
+5. **Keep README.md in sync** - when updating CLAUDE.md, update README.md to match
 
 ## Files
 
