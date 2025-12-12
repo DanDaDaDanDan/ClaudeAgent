@@ -31,12 +31,14 @@ Commands support `--model <name>` flag or project-level configuration in `goals.
 
 | Server | Provider | Tools | Use For |
 |--------|----------|-------|---------|
-| `mcp-gemini` | Google AI | `generate_text`, `list_models` | Text generation with Gemini 3 Pro (thinking/reasoning, multimodal input) |
-| `mcp-fal` | fal.ai | `generate_image`, `list_models` | Image generation with Nano Banana / Nano Banana Pro |
+| `mcp-gemini` | Google AI | `generate_text`, `list_models` | Text generation only |
+| `mcp-fal` | fal.ai | `generate_image`, `list_models` | All image generation |
 
-**Tool Reference**:
-- `mcp__mcp-gemini__generate_text` - Text generation with thinking capabilities
-- `mcp__mcp-fal__generate_image` - Image generation (fast: nano-banana, high-quality: nano-banana-pro)
+**Tool Usage**:
+- `mcp__mcp-gemini__generate_text` - Text generation with Gemini 3 Pro (thinking/reasoning)
+- `mcp__mcp-fal__generate_image` - **Always use this for images** (fast: nano-banana, high-quality: nano-banana-pro)
+
+**Note**: Both servers may expose image generation tools, but always use `mcp-fal` for images.
 
 See `../mcp-gemini/README.md` and `../mcp-fal/README.md` for MCP server setup.
 

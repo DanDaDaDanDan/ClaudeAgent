@@ -6,3 +6,7 @@
 [2025-12-12T17:51:38.599Z] [INFO] fal.ai image provider initialized {"models":["nano-banana","nano-banana-pro"]}
 [2025-12-12T17:51:38.612Z] [INFO] Starting MCP server {"version":"1.0.0","falConfigured":true,"debugMode":true,"logDir":"logs"}
 [2025-12-12T17:51:38.613Z] [INFO] Server running and ready for connections
+[2025-12-12T17:57:47.505Z] [INFO] Logger initialized {"logDir":"logs","logFile":"logs\\mcp-fal.log","usageFile":"logs\\usage.jsonl"}
+[2025-12-12T17:57:47.507Z] [INFO] fal.ai image provider initialized {"models":["nano-banana","nano-banana-pro"]}
+[2025-12-12T17:57:47.510Z] [INFO] Starting MCP server {"version":"1.0.0","falConfigured":true,"debugMode":true,"logDir":"logs"}
+[2025-12-12T17:57:47.511Z] [INFO] Server running and ready for connections

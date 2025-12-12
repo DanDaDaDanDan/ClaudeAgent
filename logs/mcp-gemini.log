@@ -25,3 +25,8 @@
 [2025-12-12T17:51:38.907Z] [INFO] Gemini image provider initialized {"models":["nano-banana","nano-banana-pro"]}
 [2025-12-12T17:51:38.914Z] [INFO] Starting MCP server {"version":"1.0.0","geminiConfigured":true,"debugMode":false,"logDir":"none"}
 [2025-12-12T17:51:38.914Z] [INFO] Server running and ready for connections
+[2025-12-12T17:57:47.621Z] [INFO] Logger initialized {"logDir":"logs","logFile":"logs\\mcp-gemini.log","usageFile":"logs\\usage.jsonl"}
+[2025-12-12T17:57:47.623Z] [INFO] Gemini text provider initialized {"model":"gemini-3-pro-preview"}
+[2025-12-12T17:57:47.624Z] [INFO] Gemini image provider initialized {"models":["nano-banana","nano-banana-pro"]}
+[2025-12-12T17:57:47.627Z] [INFO] Starting MCP server {"version":"1.0.0","geminiConfigured":true,"debugMode":false,"logDir":"none"}
+[2025-12-12T17:57:47.628Z] [INFO] Server running and ready for connections
