@@ -27,11 +27,18 @@ Commands support `--model <name>` flag or project-level configuration in `goals.
 - `claude` (default) - Direct generation, no MCP required
 - `gemini` - Google Gemini via MCP (thinking enabled)
 
-**MCP Tools** (via `mcp-gemini` server):
-- `generate_text` - Text generation with Gemini 3 Pro (supports multimodal input)
-- `generate_image` - Image generation with Nano Banana / Nano Banana Pro
+**MCP Servers**:
 
-See `../mcp-gemini/README.md` for MCP server setup.
+| Server | Provider | Tools | Use For |
+|--------|----------|-------|---------|
+| `mcp-gemini` | Google AI | `generate_text`, `list_models` | Text generation with Gemini 3 Pro (thinking/reasoning, multimodal input) |
+| `mcp-fal` | fal.ai | `generate_image`, `list_models` | Image generation with Nano Banana / Nano Banana Pro |
+
+**Tool Reference**:
+- `mcp__mcp-gemini__generate_text` - Text generation with thinking capabilities
+- `mcp__mcp-fal__generate_image` - Image generation (fast: nano-banana, high-quality: nano-banana-pro)
+
+See `../mcp-gemini/README.md` and `../mcp-fal/README.md` for MCP server setup.
 
 ## Core Rules
 
