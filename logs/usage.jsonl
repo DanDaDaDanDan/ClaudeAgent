@@ -1,2 +1,6 @@
 {"timestamp":"2025-12-12T16:48:56.081Z","model":"nano-banana","type":"image","durationMs":344,"success":false,"error":"RATE_LIMIT: Gemini API rate limit or quota exceeded. Please wait and retry."}
 {"timestamp":"2025-12-12T16:49:00.658Z","model":"nano-banana","type":"image","durationMs":125,"success":false,"error":"RATE_LIMIT: Gemini API rate limit or quota exceeded. Please wait and retry."}
+{"timestamp":"2025-12-12T18:41:58.537Z","model":"nano-banana","type":"image","durationMs":7811,"success":true}
+{"timestamp":"2025-12-12T19:12:24.022Z","model":"nano-banana-pro","type":"image","durationMs":36439,"success":true}
+{"timestamp":"2025-12-12T19:12:44.031Z","model":"nano-banana-pro","type":"image","durationMs":19917,"success":true}
+{"timestamp":"2025-12-12T19:13:41.597Z","model":"nano-banana-pro","type":"image","durationMs":57505,"success":true}
