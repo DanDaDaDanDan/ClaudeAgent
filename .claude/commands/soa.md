@@ -32,22 +32,29 @@ This project folder will contain:
 ### Parse Model Selection
 
 1. **Check command arguments** for `--model <name>`:
-   - If present, use that model for generation tasks
+   - If present, use that model for TEXT generation tasks
    - Valid values: `claude`, `gemini`
 
 2. **If no flag**, default to `claude` (direct generation, no MCP)
 
 ### Model Usage
 
-- **`claude`** (default): Generate directly. No MCP call needed.
-- **`gemini`**: Use MCP tools from the `mcp-gemini` server:
-  - `generate_text` - Text generation with Gemini 3 Pro (thinking enabled)
-  - `generate_image` - Image generation with Nano Banana / Nano Banana Pro
+- **`claude`** (default): Generate text directly. No MCP call needed.
+- **`gemini`**: Use `mcp__mcp-gemini__generate_text` for text generation
 
-When using an external model:
-1. Construct a complete prompt with ALL necessary context
-2. Call the MCP tool with appropriate parameters
-3. Parse the response and save to evidence files
+### Image Generation
+
+**Always use `mcp__mcp-fal__generate_image`** regardless of model flag.
+
+The `--model` flag only affects TEXT generation. Images always go through mcp-fal.
+
+### MCP Tool Details
+
+See **CLAUDE.md** for complete MCP tool documentation (parameters, examples, usage).
+
+When using MCP tools in SOA workflow:
+- Save all outputs to `projects/<project>/evidence/`
+- Version outputs: `artifact-v1.png`, `artifact-v2.png`, etc.
 
 ---
 
@@ -260,76 +267,6 @@ After EVERY versioned artifact, you MUST:
 - Rate below bar and ask user if they want to continue
 - Rate below bar and present work as potentially complete
 - Skip the assessment file
-
-### Using Gemini MCP Tools
-
-When model is `gemini`, use the MCP tools from the `mcp-gemini` server.
-
-#### generate_text
-
-Text generation with Gemini 3 Pro (thinking enabled). Supports multimodal input.
-
-```
-Use MCP tool: generate_text
-
-Parameters:
-- prompt: [Task with full context] (required)
-- system_prompt: [Role-appropriate instructions]
-- thinking_level: "high" (default) or "low" for faster responses
-- max_tokens: 65536 (default, max for Gemini 3 Pro)
-- temperature: 0.7 (default) - lower for analytical, higher for creative
-- images: [array of file paths] - for multimodal input (jpg, png, gif, webp, heic)
-```
-
-**Example - text generation:**
-```
-Use MCP tool: generate_text
-- prompt: "Analyze this code architecture and suggest improvements..."
-- system_prompt: "You are a senior software architect."
-- thinking_level: "high"
-- temperature: 0.3
-```
-
-**Example - multimodal (image analysis):**
-```
-Use MCP tool: generate_text
-- prompt: "Describe what's in this screenshot and identify any UI issues"
-- images: ["projects/<project>/evidence/screenshot-v1.png"]
-```
-
-#### generate_image
-
-Image generation with Nano Banana (fast) or Nano Banana Pro (high-quality).
-
-```
-Use MCP tool: generate_image
-
-Parameters:
-- prompt: [Image description] (required)
-- output_path: [Where to save the image] (required)
-- model: "nano-banana" (default, fast) or "nano-banana-pro" (high-fidelity)
-- reference_images: [array of base64 images] - for editing/composition
-- aspect_ratio: "1:1", "16:9", "9:16", "4:3", "3:4", etc.
-```
-
-**Max reference images:** 3 for nano-banana, 14 for nano-banana-pro
-
-**Example:**
-```
-Use MCP tool: generate_image
-- prompt: "A modern dashboard UI with dark theme, showing analytics charts"
-- output_path: "projects/<project>/evidence/mockup-v1.png"
-- model: "nano-banana-pro"
-- aspect_ratio: "16:9"
-```
-
-#### list_models
-
-List available Gemini models and their capabilities.
-
-```
-Use MCP tool: list_models
-```
 
 ---
 

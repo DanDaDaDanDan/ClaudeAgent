@@ -41,7 +41,20 @@ Commands support `--model <name>` flag or project-level configuration in `goals.
 
 **Note**: Both servers may expose image generation tools, but always use `mcp-fal` for images.
 
-See `../mcp-gemini/README.md` and `../mcp-fal/README.md` for MCP server setup.
+### Key MCP Patterns
+
+**Text generation** (`mcp__mcp-gemini__generate_text`):
+- `thinking_level: "high"` for complex reasoning (default)
+- `thinking_level: "low"` for faster simple tasks
+- `images: [paths]` for multimodal input (analyze screenshots, etc.)
+
+**Image generation** (`mcp__mcp-fal__generate_image`):
+- `model: "nano-banana"` for fast drafts
+- `model: "nano-banana-pro"` for high-quality final output
+- `reference_images: [urls]` for consistency across multiple images (character sheets, style guides)
+- Max references: 3 for nano-banana, 14 for nano-banana-pro
+
+See `../mcp-gemini/README.md` and `../mcp-fal/README.md` for full parameter documentation.
 
 ## Core Rules
 
