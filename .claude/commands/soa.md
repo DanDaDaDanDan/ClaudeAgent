@@ -40,7 +40,9 @@ This project folder will contain:
 ### Model Usage
 
 - **`claude`** (default): Generate directly. No MCP call needed.
-- **`gemini`**: Use MCP tool `generate_text` from the `other-llms` server.
+- **`gemini`**: Use MCP tools from the `gemini` server:
+  - `generate_text` - Text generation with Gemini 3 Pro (thinking enabled)
+  - `generate_image` - Image generation with Nano Banana / Nano Banana Pro
 
 When using an external model:
 1. Construct a complete prompt with ALL necessary context
@@ -233,73 +235,75 @@ At appropriate points (you decide when), ask:
 
 Document assessments in `projects/<project>/evidence/assessment-v[N].md`.
 
-### Using External Models (Gemini)
+### Using Gemini MCP Tools
 
-When model is `gemini`, use the MCP tool with context preservation:
+When model is `gemini`, use the MCP tools from the `gemini` server.
 
-#### First Call (No History)
+#### generate_text
+
+Text generation with Gemini 3 Pro (thinking enabled). Supports multimodal input.
 
 ```
 Use MCP tool: generate_text
 
 Parameters:
-- model: "gemini"
-- prompt: [Task with full context]
+- prompt: [Task with full context] (required)
 - system_prompt: [Role-appropriate instructions]
-- max_tokens: [Appropriate for task]
-- temperature: [0.7 for creative, 0.3 for analytical]
+- thinking_level: "high" (default) or "low" for faster responses
+- max_tokens: 65536 (default, max for Gemini 3 Pro)
+- temperature: 0.7 (default) - lower for analytical, higher for creative
+- images: [array of file paths] - for multimodal input (jpg, png, gif, webp, heic)
 ```
 
-Response includes:
-```json
-{
-  "text": "The generated response...",
-  "thinking": "The model's reasoning process...",
-  "model": "gemini",
-  "usage": { "thinkingTokens": 1234, ... }
-}
-```
-
-#### Save Context for Next Call
-
-After each Gemini response:
-1. Save to `evidence/gemini-context.json`:
-   ```json
-   {
-     "history": [
-       { "role": "user", "content": "[your prompt]" },
-       { "role": "assistant", "content": "[response text]", "thinking": "[reasoning]" }
-     ]
-   }
-   ```
-
-#### Subsequent Calls (With History)
-
-Pass conversation history to preserve context and reasoning:
-
+**Example - text generation:**
 ```
 Use MCP tool: generate_text
-
-Parameters:
-- model: "gemini"
-- prompt: [New instruction for this turn]
-- system_prompt: [Same system prompt]
-- conversation_history: [
-    { "role": "user", "content": "[turn 1 prompt]" },
-    { "role": "assistant", "content": "[turn 1 response]", "thinking": "[turn 1 reasoning]" },
-    { "role": "user", "content": "[turn 2 prompt]" },
-    { "role": "assistant", "content": "[turn 2 response]", "thinking": "[turn 2 reasoning]" }
-  ]
+- prompt: "Analyze this code architecture and suggest improvements..."
+- system_prompt: "You are a senior software architect."
+- thinking_level: "high"
+- temperature: 0.3
 ```
 
-**Critical**: Always include the `thinking` field from previous assistant messages. This lets Gemini see its prior reasoning and build on it.
+**Example - multimodal (image analysis):**
+```
+Use MCP tool: generate_text
+- prompt: "Describe what's in this screenshot and identify any UI issues"
+- images: ["projects/<project>/evidence/screenshot-v1.png"]
+```
 
-#### Context Management Strategy
+#### generate_image
 
-1. **Accumulate history** during iteration - each turn adds to the chain
-2. **Gemini sees its own thinking** - reasoning continuity across calls
-3. **Compress when needed** - if history gets large, summarize older turns
-4. **Store in evidence** - `gemini-context.json` persists across sessions
+Image generation with Nano Banana (fast) or Nano Banana Pro (high-quality).
+
+```
+Use MCP tool: generate_image
+
+Parameters:
+- prompt: [Image description] (required)
+- output_path: [Where to save the image] (required)
+- model: "nano-banana" (default, fast) or "nano-banana-pro" (high-fidelity)
+- reference_images: [array of base64 images] - for editing/composition
+- aspect_ratio: "1:1", "16:9", "9:16", "4:3", "3:4", etc.
+```
+
+**Max reference images:** 3 for nano-banana, 14 for nano-banana-pro
+
+**Example:**
+```
+Use MCP tool: generate_image
+- prompt: "A modern dashboard UI with dark theme, showing analytics charts"
+- output_path: "projects/<project>/evidence/mockup-v1.png"
+- model: "nano-banana-pro"
+- aspect_ratio: "16:9"
+```
+
+#### list_models
+
+List available Gemini models and their capabilities.
+
+```
+Use MCP tool: list_models
+```
 
 ---
 

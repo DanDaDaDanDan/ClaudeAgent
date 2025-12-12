@@ -184,9 +184,8 @@ Use the MCP tool for independent verification:
 Use MCP tool: generate_text
 
 Parameters:
-- model: "gemini"
 - system_prompt: "You are an independent verifier. Assess whether work meets stated criteria. Be rigorous - do not give benefit of the doubt. Missing evidence = FAIL. Partial completion = FAIL."
-- max_tokens: 6000
+- thinking_level: "high"
 - temperature: 0.2 (low for consistent evaluation)
 - prompt: |
     # Verification Task

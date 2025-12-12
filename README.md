@@ -54,7 +54,11 @@ Use different AI models for generation or verification:
 - **verification_model**: claude
 ```
 
-Requires MCP server setup - see `mcp-other-llms/README.md`.
+**MCP Tools** (via `gemini` server):
+- `generate_text` - Text generation with Gemini 3 Pro
+- `generate_image` - Image generation with Nano Banana / Nano Banana Pro
+
+Requires MCP server setup - see `../mcp-gemini/README.md`.
 
 ## How It Works
 
