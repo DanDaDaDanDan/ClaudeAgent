@@ -1052,39 +1052,637 @@ Lighting: bioluminescent reflection in tears
 
 ---
 
-## PAGES 10-14: [Continue with similar revisions...]
+## PAGE 10: THE TRUTH (TWIST 2)
 
-*[The remaining pages continue with the same revision approach: adding surreal environmental moments, emphasizing elongated anatomy, editorial posing, fashion-as-identity, and the differentiated ending where Selen walks toward the Border towns (established resistance settlements) rather than into generic unknown]*
+### Panel 1 (Deeper revelation - JUNGLE AS SCREEN)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, exposition scene,
+Prime explaining while environment visualizes,
+jungle projecting memories,
+
+Prime watching for pursuit while explaining more,
+her vigilance showing years of running,
+the jungle around them PROJECTS HER MEMORIES onto bioluminescent surfaces,
+ghostly images of her discoveries floating in the air,
+the Ex-Zone becomes a screen for the truth,
+
+Camera: medium shot, Prime scanning environment
+Composition: Prime in paranoid stance, memory projections surrounding
+Lighting: shifting jungle, memory-glow on surfaces
+```
+
+**SELEN-PRIME**: "There's more. Something I discovered before I ran."
+
+**SELEN-PRIME**: "The reason I couldn't stay."
 
 ---
 
-## KEY REVISIONS SUMMARY (Pages 10-14):
+### Panel 2 (Flashback - The Loop - JUNGLE VISUALIZATION)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, flashback panel,
+Prime discovering the Loop, jungle showing classified data,
+revelation as environment,
 
-### Page 10: The Truth (Twist 2)
-- Added: Loop visualization through jungle projection
-- Added: The Loop data includes reference to "Subject 7-Venn" (Story 2 Easter egg)
-- Enhanced: Prime's anguish shown through environment reacting
+The jungle SHOWS it - bioluminescent surfaces displaying classified files,
+Prime (in the memory) surrounded by data in the Vault,
+screens showing timeline spanning CENTURIES,
+same faces appearing again and again across generations,
+the Loop made visible as organic data display,
+reference visible: "SEE ALSO: SYMBIONT INTEGRATION - SUBJECT 7-VENN" (Story 2 Easter egg),
 
-### Page 11: Betrayal Revealed
-- Added: Fashion detail - Prime's grown-clothing vs Selen's violet thread
-- Enhanced: More editorial posing in emotional beats
-- Added: Silent panel before major exchange
+Camera: flashback framing within jungle projection
+Composition: Prime surrounded by horrifying data
+Lighting: data glow, classified red warnings
+```
 
-### Page 12: Compliance Arrives
-- Enhanced: Drones described as "dancer-hunters"
-- Added: Architecture surrealism - the jungle fighting back against drones
-- Enhanced: Action choreography more acrobatic
+**SELEN-PRIME (caption)**: "I found the files they hide from everyone. The Loop isn't rumor."
 
-### Page 13: The Choice
-- Added: Selen touches her violet thread before making choice
-- Enhanced: Her pose when surrendering is "editorial stillness"
-- Key addition: Her calm is Veridia-trained control used AGAINST Veridia
+---
 
-### Page 14: Resolution (DIFFERENTIATED ENDING)
-- CHANGED: Selen doesn't walk into generic unknown
-- NEW: She walks toward the BORDER SETTLEMENTS - resistance communities
-- NEW: Final line: "I am Selen Vareth. Three months old. And I know where to find others."
-- The ending is hopeful AND specific, unlike Story 2's uncertainty
+### Panel 3 (The Loop explained - COSMIC HORROR)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, cosmic horror reveal,
+visualization of generational reset, bodies recycling,
+infinite repetition,
+
+Visualization through jungle - citizens dying and being reborn,
+same souls in new cloned bodies, memory selectively preserved,
+the process clinical, industrial, eternal,
+Veridia revealed as prison through time,
+the jungle shows it as an endless cycle, spiraling,
+horror on both Selens' elongated faces,
+
+Camera: wide conceptual shot
+Composition: circular imagery, bodies in cycle
+Lighting: cold clinical light on the process
+```
+
+**SELEN-PRIME**: "Veridia resets. Every generation. Same souls, new bodies."
+
+**SELEN-PRIME**: "They've done this hundreds of times."
+
+---
+
+### Panel 4 (Personal horror - PRIME'S WEIGHT)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, personal revelation,
+Prime's face showing centuries of trauma,
+elongated anguish,
+
+Prime's elongated expression showing the weight of remembering,
+she's not just escaped the city - she's escaped the cycle,
+her large eyes showing more age than her face,
+the jungle DIMS around her, responding to her sorrow,
+her grown-clothing seems to tighten, protective,
+
+Camera: close on Prime's face
+Composition: face dominant, exhaustion visible
+Lighting: soft bioluminescent, sympathetic
+```
+
+**SELEN-PRIME**: "I've lived through twelve loops. Remembering."
+
+**SELEN-PRIME**: "Do you know what it's like to watch everyone you love reset?"
+
+---
+
+### Panel 5 (TWIST 2: The purpose - CREATED TO DIE)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, twist reveal,
+Selen understanding her purpose, expendable decoy,
+gulf between selves,
+
+Selen putting it together - the full horror of her existence,
+Prime needed a distraction, a sacrifice,
+and Selen was created specifically to die,
+the space between them feels vast,
+Selen's violet thread seems very small now,
+
+Camera: two-shot, the gulf between them
+Composition: physical and emotional distance visualized
+Lighting: harsh, revealing
+```
+
+**SELEN-PRIME**: "I found a way out of the Loop. But I needed them distracted."
+
+**SELEN-PRIME**: "You were supposed to be captured. Your termination would close my file."
+
+---
+
+## PAGE 11: BETRAYAL REVEALED
+
+### Panel 1 (Processing - SILENT DEVASTATION)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, emotional devastation,
+Selen processing existential betrayal,
+silent beat,
+
+SILENT PANEL - Selen's elongated face - not just sad but philosophically wounded,
+she was created to be thrown away,
+her entire existence is a tool for someone else's survival,
+the jungle holds its breath, bioluminescence frozen,
+her hands touch her violet thread unconsciously,
+
+Camera: close-up, raw
+Composition: face filling frame, complex emotion
+Lighting: harsh side-light, shadows deepening
+```
+
+**NO DIALOGUE** - Let it land
+
+---
+
+### Panel 2 (Prime's justification - REACHING OUT)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, pleading justification,
+Prime reaching toward Selen, trying to explain,
+fashion contrast visible,
+
+Prime moves closer, her elongated hand reaching out,
+trying to make Selen understand centuries of desperation,
+the gesture almost maternal - from self to self,
+her grown-clothing shifts with the emotion,
+Selen's violet thread bright against her pristine white,
+
+Camera: medium shot, gesture emphasized
+Composition: Prime's hand reaching across frame
+Lighting: bioluminescent, intimate but harsh
+```
+
+**SELEN-PRIME**: "I'm sorry. I truly am. But I've lived through twelve loops remembering."
+
+---
+
+### Panel 3 (Prime's pain - VULNERABILITY)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, glimpse of empathy,
+Prime showing genuine anguish,
+predator becoming prey to her own guilt,
+
+Prime's mask slipping - showing the real cost of her plan,
+she didn't create a copy callously,
+she hates what she had to do,
+the jungle BRIGHTENS around her, responding to authenticity,
+her elongated features softened by genuine grief,
+
+Camera: close on Prime
+Composition: anguish visible, guilt surfacing
+Lighting: softer, more sympathetic
+```
+
+**SELEN-PRIME**: "I watched them die. Everyone. Twelve times."
+
+**SELEN-PRIME**: "I had to get out. You're the only way."
+
+---
+
+### Panel 4 (Selen's response - FINDING SELF)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, defiant response,
+Selen finding her voice, her separateness,
+identity assertion,
+
+Selen's expression changes - from devastation to something harder,
+she's finding her footing, her own identity,
+even in the face of being told she's disposable,
+her posture straightens, elongated spine proud,
+her violet thread catching the light - HER rebellion,
+
+Camera: close on Selen
+Composition: growing strength visible in posture
+Lighting: dramatic, emphasizing transformation
+```
+
+**SELEN**: "No."
+
+**SELEN**: "Because I'm not you. I'm three months old."
+
+---
+
+### Panel 5 (New ground - EQUALS)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, philosophical standoff,
+two Selens reconsidering each other,
+power shift,
+
+Prime hesitates - she hadn't truly considered Selen as separate,
+the copy was supposed to be HER, just... expendable,
+but this Selen is already someone else,
+they stand as EQUALS now, same height, different weight,
+the jungle between them neutral, waiting,
+
+Camera: two-shot, new dynamic
+Composition: equals in frame now, not original and copy
+Lighting: balanced between them
+```
+
+**SELEN**: "I don't have your twelve loops of grief. I have three months."
+
+**SELEN**: "That's all I am. And you made me to die."
+
+---
+
+## PAGE 12: COMPLIANCE ARRIVES
+
+### Panel 1 (Interruption - DRONES BREACH)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, action intrusion,
+drones breaching Ex-Zone, crisis arriving,
+dancer-hunters,
+
+Compliance drones BREACH the Ex-Zone perimeter like predatory dancers,
+searchlights cutting through the jungle, searing through organic matter,
+both Selens snap to awareness - the intimate moment shattered,
+the jungle FIGHTS BACK, tendrils reaching for drones,
+acrobatic chaos as organic and mechanical clash,
+
+Camera: wide shot, drones entering from above
+Composition: jungle canopy breaking, drones descending, jungle resisting
+Lighting: harsh searchlights cutting bioluminescence
+```
+
+**SFX**: "KROOM" (canopy breach)
+
+---
+
+### Panel 2 (Threat - OVERWHELMING FORCE)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, overwhelming force,
+multiple drones deploying, scanner beams,
+architecture fighting,
+
+Multiple drones spreading through the jungle, moving like dancers,
+scanner beams sweeping, hunting,
+but the Ex-Zone is FIGHTING - vines grabbing drones, acid spit dissolving metal,
+Kreth's voice from drone speakers, clinical and cold,
+the environment as ally against the machines,
+
+Camera: threatening low angle on drones
+Composition: drones filling sky, jungle fighting back
+Lighting: scanner beams, searchlight glare, bioluminescent defense
+```
+
+**KRETH (drone speaker)**: "Both anomalies detected."
+
+**KRETH (drone speaker)**: "Neutralize."
+
+---
+
+### Panel 3 (Offer - ESCAPE TOGETHER)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, desperate offer,
+Prime grabbing Selen, offering escape,
+urgency,
+
+Prime grabs Selen's arm - urgent, desperate,
+her grown-clothing extending slightly, ready to run,
+pointing deeper into the Ex-Zone,
+offering escape - together,
+her elongated body coiled for flight,
+
+Camera: close action shot
+Composition: hands gripping, urgency
+Lighting: searchlight sweeping toward them
+```
+
+**SELEN-PRIME**: "There's a ship. Hidden. We could both—"
+
+---
+
+### Panel 4 (Rejection - SELEN'S STANCE)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, rejection moment,
+Selen pulling away, refusing,
+editorial stillness,
+
+Selen pulls away from Prime's grip, her pose EDITORIAL,
+not angry, but resolved,
+she won't be a puppet even in escape,
+her violet thread catching searchlight,
+she is choosing her own path,
+
+Camera: medium shot, separation
+Composition: Selen pulling back, Prime reaching
+Lighting: searchlight between them
+```
+
+**SELEN**: "You made me to be a sacrifice."
+
+---
+
+### Panel 5 (Pleading - PRIME'S DESPERATION)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, desperation,
+Prime trying to make Selen understand,
+elongated pleading,
+
+Prime's elongated face - desperation, trying to explain,
+she needs Selen to run with her,
+but she's realizing she's lost control of her creation,
+her grown-clothing trembles with stress,
+the jungle dims around her failed plan,
+
+Camera: close on Prime
+Composition: reaching toward camera/Selen
+Lighting: harsh, drones approaching
+```
+
+**SELEN-PRIME**: "I made you to survive! Your memories are mine—"
+
+**SELEN-PRIME**: "You KNOW why I had to—"
+
+---
+
+## PAGE 13: THE CHOICE
+
+### Panel 1 (Declaration - IDENTITY CLAIMED)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, defining moment,
+Selen claiming her identity, powerful statement,
+fashion as identity,
+
+Selen stands her ground - this is her moment of self-creation,
+her fingers touch her violet thread - HER choice, HER rebellion,
+drones approaching behind her, but she's focused on Prime,
+about to define herself through choice,
+her elongated posture HEROIC, fashion-model power,
+
+Camera: low angle, heroic framing
+Composition: Selen dominant, Prime subordinate
+Lighting: dramatic backlighting from searchlights
+```
+
+**SELEN**: "My memories are yours."
+
+**SELEN**: "But my choices are mine."
+
+---
+
+### Panel 2 (Action - STEPPING FORWARD)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, shocking action,
+Selen stepping toward the drones, surrendering,
+editorial stillness in motion,
+
+Selen steps TOWARD the drones, raising her hands,
+her movement is EDITORIAL STILLNESS - controlled, deliberate, posed,
+this is not giving up - it's choosing,
+she's about to do something her original never expected,
+using Veridia-trained composure AGAINST Veridia,
+
+Camera: medium shot, Selen advancing
+Composition: Selen moving into danger
+Lighting: searchlight highlighting her surrender
+```
+
+**NO DIALOGUE** - Action speaks
+
+---
+
+### Panel 3 (Confusion - PRIME'S SHOCK)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, reaction shot,
+Prime confused, plan derailing,
+elongated disbelief,
+
+Prime's elongated face - total confusion,
+this wasn't in any calculation,
+the copy is deviating from anything she would do,
+her grown-clothing goes slack with shock,
+the jungle seems confused too, bioluminescence flickering,
+
+Camera: close on Prime
+Composition: confusion and dawning realization
+Lighting: reflected searchlight
+```
+
+**SELEN-PRIME**: "What are you doing?"
+
+---
+
+### Panel 4 (Answer - CALM CERTAINTY)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, confident statement,
+Selen looking back, calm certainty,
+first true smile,
+
+Selen looks back at Prime - calm, certain,
+a small smile - the FIRST real expression that's HERS,
+she's about to prove she's not just a copy,
+the violet thread bright against the chaos,
+three months of life, about to matter,
+
+Camera: over-shoulder from Prime's POV
+Composition: Selen's face, peaceful resolve
+Lighting: searchlight halo around her
+```
+
+**SELEN**: "Being something you never expected."
+
+---
+
+### Panel 5 (SILENT PANEL - THE MOMENT)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, pivotal silent moment,
+Selen's face in close-up, transcendent calm,
+sacred beat,
+
+SILENT PANEL - extreme close-up on Selen's elongated face,
+absolute calm, absolute choice,
+she has found herself in three months of life,
+she is not Prime, she is Selen,
+her large eyes reflecting both searchlight and jungle-glow,
+
+Camera: extreme close-up
+Composition: face only, eyes as focal point
+Lighting: soft, almost beatific
+```
+
+**NO TEXT** - This moment is sacred
+
+---
+
+## PAGE 14: RESOLUTION
+
+### Panel 1 (Misdirection - THE LIE)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, tactical deception,
+Selen addressing the drones, pointing wrong direction,
+archivist authority,
+
+Selen faces the drones, hands raised, speaking with archivist authority,
+she points in the OPPOSITE direction from Prime,
+her voice calm, professional - data delivery,
+using her training for her own purpose,
+
+Camera: wide shot, Selen between drones and Prime
+Composition: Selen in center, drones above, Prime behind
+Lighting: harsh drone searchlights
+```
+
+**SELEN**: "I surrender."
+
+**SELEN**: "The real anomaly—the primary target—is escaping north."
+
+---
+
+### Panel 2 (The misdirection - POINTING)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, pointing away,
+deliberate misdirection, saving her killer,
+Veridia training as weapon,
+
+Selen pointing firmly in the wrong direction,
+her elongated arm extended, perfect posture,
+her face revealing nothing, perfect Veridia composure,
+using her conditioning to save the one who made her to die,
+the violet thread the only sign of her rebellion,
+
+Camera: medium shot, arm extended
+Composition: pointing gesture emphasized
+Lighting: dramatic shadows
+```
+
+**SELEN**: "Twelve meters bearing north-northeast. Moving fast."
+
+---
+
+### Panel 3 (Drones turn - MISDIRECTION WORKS)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, misdirection working,
+drones pivoting, accepting the false data,
+relief and success,
+
+Drones turn, pursuing the false lead,
+searchlights sweeping away from Prime's position,
+the jungle relaxes slightly, bioluminescence returning,
+Selen's deception working,
+her face still composed, waiting,
+
+Camera: wide shot, drones moving away
+Composition: drones departing, clearing the frame
+Lighting: searchlights moving off
+```
+
+**SFX**: "VRRRR" (drones departing)
+
+---
+
+### Panel 4 (Disbelief - PRIME'S REACTION)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, stunned reaction,
+Prime staring at Selen in disbelief,
+relationship transformed,
+
+Prime stares at her copy - utter disbelief,
+Selen just saved her by lying to her own hunters,
+this was NEVER in any calculation,
+Prime's grown-clothing relaxes, shock making her vulnerable,
+something like gratitude and shame warring on her elongated face,
+
+Camera: close on Prime's face
+Composition: raw disbelief, gratitude, confusion
+Lighting: softer, drones departed
+```
+
+**NO DIALOGUE** - Let Prime's expression speak
+
+---
+
+### Panel 5 (Final exchange - MERCY GIVEN)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, emotional culmination,
+Selen telling Prime to go, dignified farewell,
+gift given,
+
+Selen turns to Prime - not forgiving her, but freeing her,
+this is mercy that wasn't earned, given freely,
+the choice that makes Selen her own person,
+the jungle brightens between them, responding to grace,
+both elongated figures sharing a moment outside their programming,
+
+Camera: two-shot, emotional climax
+Composition: Selen facing Prime, space between
+Lighting: bioluminescent, intimate
+```
+
+**SELEN**: "Go. I choose to give you what you couldn't give me."
+
+---
+
+### Panel 6 (Departure - PRIME LEAVES)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, figure disappearing,
+Prime vanishing into Ex-Zone, granted freedom,
+farewell,
+
+Prime disappears into the bioluminescent jungle,
+one last look back at her copy - complicated emotions,
+gratitude, shame, wonder at what her copy became,
+then she's gone, swallowed by the chaos,
+the jungle closing behind her like a door,
+
+Camera: wide shot, Prime becoming silhouette
+Composition: Prime disappearing into jungle depth
+Lighting: bioluminescent swallowing her form
+```
+
+**NO DIALOGUE** - Let her go
+
+---
+
+### Panel 7 (Final image - SPECIFIC HOPE)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, final image,
+Selen alone, walking toward SPECIFIC destination, hopeful determination,
+ending with direction,
+
+FINAL IMAGE: Selen alone in the Ex-Zone,
+but NOT walking into vague unknown - she's walking toward distant LIGHTS,
+the Border Settlements - resistance communities, other escapees,
+she knows where to find others like her,
+for the first time in her three months of existence, the future is HERS,
+and she has somewhere to GO,
+small smile, violet thread catching the light,
+her elongated silhouette walking toward connection,
+
+Camera: wide shot, Selen small but determined
+Composition: Selen in lower third, settlement lights visible in distance
+Lighting: bioluminescent path, warm lights ahead
+```
+
+**CAPTION**: "I am Selen Vareth. Three months old. And I know where to find others."
+
+---
+
+## END STORY 1
 
 ---
 

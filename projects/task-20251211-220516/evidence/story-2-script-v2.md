@@ -503,33 +503,603 @@ Lighting: harsh, unflattering truth
 
 ---
 
-## PAGES 5-9: [Continue with revised content maintaining same enhancements]
+## PAGE 5: GATHERING EVIDENCE
 
-### PAGE 5: GATHERING EVIDENCE
-- Enhanced with archive room as impossible space (shelves that go sideways)
-- Castor's research shown as physical interaction with organic data storage
-- Added reference: "See also: Memory Curator Vareth, S. - Anomaly flagged" (Story 1 Easter egg)
+### Panel 1 (Archive search - IMPOSSIBLE SPACE)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, research montage,
+Castor at data terminal, searching records,
+IMPOSSIBLE ARCHIVE ARCHITECTURE,
 
-### PAGE 6: THE ATTACK (AS PREDICTED)
-- Battle choreography more editorial/fashion-forward
-- Deaths posed like art, bodies falling in aesthetic arrangements
-- Castor's survival emphasized through DIFFERENT movement - fluid vs rigid
+Castor in an archive alcove - the space is WRONG,
+shelves extend SIDEWAYS from walls, data pods climb the ceiling,
+the room defies gravity, organizing information by relevance not physics,
+searching Border records, architectural history,
+screens showing the demolished tower from years ago,
+his symbiont arm interfacing with organic data storage,
 
-### PAGE 7: DÉJÀ VU WEAPONIZED
-- The dying guard's face revealed to match old archive EXACTLY
-- Pattern shown through data overlay on reality
-- Architecture shown repeating across time layers
+Camera: medium shot at terminal
+Composition: Castor surrounded by impossible data architecture
+Lighting: screen glow in dim archive room
+```
 
-### PAGE 8: TWIST 1 - THE LOOP CONFIRMED
-- Castor finding himself in archives shown as VISCERAL horror
-- Multiple Castors displayed as gallery of deaths
-- Page-turn impact preserved
-- Symbiont's role recontextualized: not prophet but HISTORIAN
+**CAPTION**: "I searched the records. The tower was demolished 14 months ago."
 
-### PAGE 9: CONFRONTING VELLIS
-- Office impossibility emphasized - meeting room that's somehow INSIDE the data
-- Vellis's smile shown as calculated reveal
-- His mechanical eye PROJECTING data into the space
+---
+
+### Panel 2 (Confirmation - PERFECT MATCH)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, evidence discovered,
+screen showing historical image matching vision,
+horrifying confirmation,
+
+Screen showing archival image - the tower as it was years ago,
+EXACTLY matching what Castor sees in his visions,
+down to minor details - damage patterns, growth on walls, specific stains,
+the match is TOO perfect for coincidence,
+a reference visible in the corner: "See also: Memory Curator Vareth, S. - Anomaly flagged" (Story 1 Easter egg),
+
+Camera: close on screen
+Composition: archival image dominant
+Lighting: screen glow
+```
+
+**CASTOR (thought balloon)**: "Exact match. Not just similar—identical."
+
+**CAPTION**: "My visions show the tower as it was. Not as it will be."
+
+---
+
+### Panel 3 (Comparing visions - PATTERN RECOGNITION)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, analysis visualization,
+multiple vision memories compared,
+evidence accumulating,
+
+Castor comparing his vision-memories - physical representations floating in the impossible space,
+multiple scenes laid out in three dimensions, all showing the same tower,
+consistent with EACH OTHER across visions,
+but all from the same time period - the past,
+his symbiont arm pulses as he sorts through temporal data,
+
+Camera: wide visualization
+Composition: multiple vision-scenes arranged for comparison
+Lighting: ethereal vision-glow
+```
+
+**CAPTION**: "Every vision. Same tower. Same damage patterns. Same growth."
+
+**CAPTION**: "They're not predictions. They're recordings."
+
+---
+
+### Panel 4 (Theory forming - TIMELINE SKETCH)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, revelation approaching,
+Castor connecting dots, timeline visualization,
+terrible theory taking shape,
+
+Castor sketching a timeline in the air - organic data responding to his touch,
+his visions don't match NOW, they match THEN, years ago, consistently,
+the terrible theory taking shape visually,
+what if he's not seeing forward, but backward?
+his elongated face showing the strain of paradigm collapse,
+
+Camera: close on timeline sketch
+Composition: timeline spanning frame, gap in middle
+Lighting: dim room, focus on the work
+```
+
+**CASTOR (thought balloon)**: "Not the future."
+
+**CASTOR (thought balloon)**: "The past. Someone else's past."
+
+---
+
+### Panel 5 (Alarm - ATTACK BEGINNING)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, interruption,
+alarm klaxon, alert lighting,
+thirteen hours passed,
+
+Alarms sounding - the attack he predicted is beginning,
+red alert lighting flooding the impossible archive,
+Castor looks up from his research, realization: thirteen hours have passed,
+time to test his theory in blood,
+his symbiont arm flaring with stress,
+
+Camera: reaction shot with alarm lights
+Composition: Castor reacting, red alert dominant
+Lighting: red alarm strobing
+```
+
+**SFX**: "ALERT ALERT ALERT"
+
+**CASTOR (thought balloon)**: "The attack. Happening now."
+
+**CASTOR (thought balloon)**: "Time to find out what I'm really seeing."
+
+---
+
+## PAGE 6: THE ATTACK (AS PREDICTED)
+
+### Panel 1 (Battle begins - EDITORIAL VIOLENCE)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, battle scene,
+Ex-Zone breach, chaos erupting,
+EDITORIAL VIOLENCE,
+
+The attack Castor foresaw - exactly as he saw it,
+Ex-Zone creatures breaching the Wall, massive organic horrors,
+BUT the violence is POSED - bodies falling in aesthetic arrangements,
+guards scrambling in formation that looks like choreography,
+Castor running toward his predicted death location,
+fashion-forward apocalypse,
+
+Camera: wide action shot
+Composition: breach center, defenders responding in artistic chaos
+Lighting: emergency lighting, creature bioluminescence
+```
+
+**SFX**: "KROOOOM" (breach)
+
+---
+
+### Panel 2 (Matching the vision - DÉJÀ VU)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, déjà vu,
+scene matching previous vision exactly,
+uncanny recognition,
+
+The scene is EXACTLY as Castor foresaw - same positions, same chaos,
+the eerie experience of watching the future unfold,
+but Castor is not following his predicted path,
+he's watching, analyzing, moving DIFFERENTLY,
+his symbiont-influenced movement more fluid than the rigid guards,
+
+Camera: medium shot, Castor observing
+Composition: predicted chaos surrounding aware Castor
+Lighting: combat lighting
+```
+
+**CASTOR (thought balloon)**: "Exactly as I saw. Every detail."
+
+**CASTOR (thought balloon)**: "Except me. I'm not where I'm supposed to be."
+
+---
+
+### Panel 3 (Changing fate - DODGE)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, defying prophecy,
+Castor dodging predicted death,
+symbiont-fluid movement,
+
+The organic spike that should kill him MISSES - Castor dodged,
+he moved with SYMBIONT FLUIDITY, not human rigidity,
+the spike embedding in wall behind him where he should have been,
+proof that the vision isn't absolute destiny,
+his elongated body twisted in mid-dodge, acrobatic survival,
+
+Camera: action shot, near-miss emphasized
+Composition: spike in wall, Castor having rolled clear
+Lighting: combat strobes
+```
+
+**SFX**: "THUNK" (spike impact)
+
+**CASTOR (thought balloon)**: "I changed it. The vision isn't destiny."
+
+---
+
+### Panel 4 (Survival pause - SOMETHING WRONG)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, moment of survival,
+Castor realizing he should be dead,
+seeing something impossible,
+
+Castor crouched behind cover, breathing hard,
+he survived his predicted death by making a different choice,
+but his eyes are seeing something in the battle that FREEZES him,
+something impossible, something that shouldn't be,
+his symbiont arm pointing toward it involuntarily,
+
+Camera: medium shot, Castor recovering
+Composition: Castor center, battle background
+Lighting: combat chaos
+```
+
+**CASTOR (thought balloon)**: "I survived. But—"
+
+---
+
+### Panel 5 (Impossible sight - HORROR RECOGNITION)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, horror revelation,
+Castor seeing something that shouldn't be,
+face frozen in recognition,
+
+Castor's elongated face frozen in shock - he's seen something WRONG,
+not just the battle, but a specific death,
+a specific face he RECOGNIZES,
+from somewhere else, somewhere impossible,
+his mismatched eyes both locked on something off-panel,
+
+Camera: close-up on Castor's face
+Composition: horror and recognition
+Lighting: combat light on his face
+```
+
+**CASTOR (thought balloon)**: "No. That's impossible."
+
+---
+
+## PAGE 7: DÉJÀ VU WEAPONIZED
+
+### Panel 1 (The death - WITNESSED)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, death scene,
+female guard dying - specific face,
+editorial death pose,
+
+Another guard's face as she dies - a young woman impaled by creature,
+but her death is POSED, editorial violence, beautiful and terrible,
+the same death Castor has seen before,
+not in a vision - somewhere else,
+her face burned into his memory from the ARCHIVES,
+
+Camera: close on dying guard's face
+Composition: death moment captured as art
+Lighting: combat harsh
+```
+
+**NO TEXT** - Horror needs silence
+
+---
+
+### Panel 2 (Memory trigger - ARCHIVE MATCH)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, memory activation,
+Castor recognizing the face,
+temporal horror,
+
+Castor's face - recognition hitting him like a blow,
+he's seen this exact face die before,
+not in his visions,
+in the archives - from 12 years ago,
+his symbiont arm PULSES with confirmation,
+
+Camera: close on Castor's realization
+Composition: dawning horror
+Lighting: combat strobe freeze
+```
+
+**CASTOR (thought balloon)**: "That face. I've seen that face die before."
+
+**CASTOR (thought balloon)**: "In the archives. From twelve years ago."
+
+---
+
+### Panel 3 (Archive match - DATA OVERLAY)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, evidence comparison,
+archival image matching current death,
+reality with data overlay,
+
+Castor pulling up archive on his combat comm,
+split-screen effect: the woman who just died, and archive footage,
+SAME FACE, SAME DEATH, twelve years apart,
+impossible unless time is repeating,
+the data OVERLAYS onto reality, past bleeding into present,
+
+Camera: close on comm screen, archive comparison
+Composition: split screen - then and now, identical
+Lighting: screen glow against combat background
+```
+
+**TEXT ON SCREEN**: "CASUALTY RECORD - 12 YEARS PRIOR"
+
+**CASTOR (thought balloon)**: "Same face. Same death. Same DAY."
+
+---
+
+### Panel 4 (Pattern emerging - CASCADING DATA)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, desperate research,
+Castor cross-referencing during battle,
+time layers visible,
+
+Castor frantically searching archives while battle rages around him,
+pulling up attack records from 12, 24, 36 years ago,
+all identical - same attack pattern, same casualties,
+the Loop becoming visible as LAYERS of overlapping data,
+architecture in background showing multiple TIME STATES simultaneously,
+
+Camera: medium shot, Castor searching
+Composition: screens of data, battle in background, time layers visible
+Lighting: screen glow, combat chaos
+```
+
+**CAPTION**: "12 years ago. 24. 36. The same attack."
+
+**CAPTION**: "The same people dying."
+
+---
+
+### Panel 5 (The full horror - INFINITE REPETITION)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, overwhelming revelation,
+multiple identical casualty records,
+pattern made undeniable,
+
+The archive shows it clearly - same faces, same deaths, across DECADES,
+repeating every 12 years exactly like clockwork,
+the Loop made manifest as bureaucratic data,
+Castor's elongated face showing the enormity of understanding,
+his symbiont arm dim with the weight of truth,
+
+Camera: wide data visualization
+Composition: repeating faces across time
+Lighting: data glow, horrifying revelation
+```
+
+**CASTOR (thought balloon)**: "The same people. Dying the same deaths."
+
+**CASTOR (thought balloon)**: "Over and over. The Loop is real."
+
+---
+
+## PAGE 8: TWIST 1 - THE LOOP CONFIRMED
+
+### Panel 1 (After battle - INVESTIGATION)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, post-battle investigation,
+Castor alone with data,
+obsessive research,
+
+Battle over, Castor alone in a data alcove,
+surrounded by archive screens, searching desperately,
+his symbiont arm pulsing with agitation,
+looking for himself in the records,
+the impossible archive space responding to his need,
+
+Camera: medium shot, isolation
+Composition: Castor surrounded by screens
+Lighting: screen glow, dim environment
+```
+
+**CAPTION**: "After. When the bodies were counted. When I was free to look."
+
+---
+
+### Panel 2 (Finding himself - FIRST DEATH)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, self-discovery horror,
+Castor finding himself in archives,
+VISCERAL shock,
+
+Screen showing: CASTOR VENN, CASUALTY RECORD, 36 years prior,
+his own elongated face - younger but unmistakably him,
+died in this exact attack, at this exact location,
+the same death he saw in his vision,
+his hands SHAKING as he views his own corpse,
+
+Camera: close on screen
+Composition: his face on the record
+Lighting: screen glow, horror lighting
+```
+
+**TEXT ON SCREEN**: "SUBJECT: CASTOR VENN - KIA - SECTOR 7 BREACH"
+**TEXT ON SCREEN**: "DATE: [36 years prior]"
+
+**CASTOR**: "That's... me."
+
+---
+
+### Panel 3 (Finding himself - GALLERY OF DEATHS)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, infinite regression,
+multiple records of Castor's death,
+gallery of dying selves,
+
+Screen showing MORE records - Castor, 72 years ago, 108, 144,
+dying the same death, same location, SAME FACE,
+cascading realization of infinite repetition,
+the screens arrange themselves like a GALLERY of his deaths,
+each version of him posed similarly in death,
+
+Camera: expanding view of records
+Composition: multiple Castors across time
+Lighting: screen multiplication
+```
+
+**CAPTION**: "72 years ago. 108 years. 144."
+
+**CAPTION**: "The same face. My face. Dying here. Over and over."
+
+---
+
+### Panel 4 (TWIST REVELATION - PARADIGM SHATTER)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, paradigm shatter,
+Castor's face with devastating understanding,
+everything recontextualized,
+
+Close on Castor's elongated face - the full horror landing,
+The Loop is real, and he's died here MANY TIMES,
+his symbiont has been showing him HIS OWN DEATHS,
+not the future - his past lives,
+Keth is not a prophet - it's a HISTORIAN of his failures,
+
+Camera: extreme close-up
+Composition: face filling frame, revelation
+Lighting: harsh, unforgiving
+```
+
+**CASTOR**: "The Loop. I've died here before. Many times."
+
+---
+
+### Panel 5 (The symbiont's "gift" - RECONTEXTUALIZED)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, awful understanding,
+Castor looking at his symbiont arm with new horror,
+gift revealed as curse,
+
+Castor looking at his symbiont arm - Keth pulsing within,
+he understands now what Keth has been showing him,
+not prophecy - memory,
+the symbiont remembers his deaths across all Loops,
+the "gift" is actually a record of his eternal failure,
+
+Camera: close on arm, face reflected in chitinous surface
+Composition: arm detail, face distorted
+Lighting: bioluminescent, intimate
+```
+
+**CASTOR**: "Keth... you're not showing me the future."
+
+**CASTOR**: "You're showing me how I've died before."
+
+---
+
+## PAGE 9: CONFRONTING VELLIS
+
+### Panel 1 (Demanding answers - AGGRESSIVE ENTRY)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, confrontation,
+Castor entering Vellis's office, aggressive,
+IMPOSSIBLE OFFICE architecture,
+
+Castor entering Director Vellis's office - no protocol, no waiting,
+the office is IMPOSSIBLE - somehow existing INSIDE the data stream,
+walls made of flowing information, floor that's a window into archived time,
+his symbiont arm flaring with agitation,
+guards moving to intercept but Vellis waves them off,
+Castor is angry, volatile, DEMANDING,
+
+Camera: dynamic entry shot
+Composition: Castor moving into impossible space, Vellis receiving
+Lighting: Vellis's office - data glow, flowing information
+```
+
+**CASTOR**: "You knew. You've always known what Keth really shows me."
+
+---
+
+### Panel 2 (Vellis's smile - CALCULATED REVEAL)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, villain reveal,
+Vellis smiling, unsurprised,
+mechanical eye projecting,
+
+Vellis smiles - calm, unsurprised, almost PLEASED,
+his mechanical eye clicking and refocusing, PROJECTING data into the space,
+holograms of Castor's previous lives appearing around them,
+he gestures for Castor to sit - civilized monster in impossible architecture,
+he's been waiting for this moment across multiple cycles,
+
+Camera: close on Vellis
+Composition: smile as focal point, projections emerging
+Lighting: elegant office lighting, projection glow
+```
+
+**VELLIS**: "Finally."
+
+**VELLIS**: "You always figure it out around this point."
+
+---
+
+### Panel 3 (Expected - HORROR OF BEING PREDICTED)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, horror of being predicted,
+Castor's reaction to being expected,
+agency dissolving,
+
+Castor's elongated face - the horror of being told this was EXPECTED,
+his "discovery" is scripted,
+even his confrontation is part of a pattern,
+the walls closing in with data showing his previous confrontations,
+his symbiont arm goes rigid with stress,
+
+Camera: reaction shot
+Composition: Castor's realization, data closing in
+Lighting: harsh
+```
+
+**CASTOR**: "This... you expected this?"
+
+**VELLIS**: "Expected? I've seen it. Many times."
+
+---
+
+### Panel 4 (The truth spoken - DATA AS ARCHITECTURE)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, villain exposition,
+Vellis explaining, clinical joy,
+office showing the truth,
+
+Vellis standing, his mechanical eye projecting expansive data,
+showing Castor's previous lives, previous confrontations,
+the same scene playing out across CENTURIES on the walls,
+the office itself is the evidence - architecture made of proof,
+lecture as elegant torture,
+
+Camera: medium shot, projection visible
+Composition: Vellis teaching, Castor as student, data as classroom
+Lighting: projection glow
+```
+
+**VELLIS**: "You're not seeing the future, Castor."
+
+**VELLIS**: "You're remembering the past."
+
+---
+
+### Panel 5 (The pattern - PAGE TURN SETUP)
+**IMAGE PROMPT**:
+```
+Peter Chung Aeon Flux inspired, page-turn setup,
+Vellis delivering the worst truth,
+anticipatory cruelty,
+
+Vellis leaning forward, intimate cruelty,
+about to deliver the blow that breaks everything,
+his mechanical eye clicking with anticipation,
+the data around them PAUSES, waiting for impact,
+Castor's elongated body tense, braced for the blow,
+
+Camera: close on Vellis
+Composition: face filling frame, anticipation
+Lighting: dramatic single source
+```
+
+**VELLIS**: "And your rebellion?"
+
+**VELLIS**: "I've seen it. Many times."
 
 ---
 
