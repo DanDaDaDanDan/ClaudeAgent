@@ -66,9 +66,9 @@ Based on current research (December 2025):
 - **verification_model**: claude
 
 ## Acceptance Checklist
-- [ ] Video concept leverages proven viral format — Evidence: concept explanation with research backing
-- [ ] Optimal length (21-30 seconds) with proper shot breakdown — Evidence: storyboard timing
-- [ ] Hook in first 2-3 seconds — Evidence: shot 1 description
-- [ ] Image prompts are detailed and consistent — Evidence: prompt files
-- [ ] Video prompts include clear motion direction — Evidence: prompt files
-- [ ] All prompts organized for easy use — Evidence: final deliverable structure
+- [x] Video concept leverages proven viral format — Evidence: concept explanation with research backing
+- [x] Optimal length (21-30 seconds) with proper shot breakdown — Evidence: storyboard timing
+- [x] Hook in first 2-3 seconds — Evidence: shot 1 description
+- [x] Image prompts are detailed and consistent — Evidence: prompt files
+- [x] Video prompts include clear motion direction — Evidence: prompt files
+- [x] All prompts organized for easy use — Evidence: final deliverable structure
