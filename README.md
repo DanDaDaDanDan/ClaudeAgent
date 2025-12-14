@@ -12,24 +12,24 @@ A self-organizing agent framework for Claude Code with iteration and verificatio
 ## Example: Any Task
 
 ```
-You: Refactor the user API to use async/await, iterate until clean
+You: Write a short story with a twist ending, iterate until it's A+ quality
 You: /soa
 
 Claude: [Creates projects/task-20250115-143022/]
         [Writes goals.md with success criteria]
         [Plans approach in plan.md]
-        [Implements v1 → evidence/implementation-v1.ts]
-        [Self-assesses, iterates → v2, v3...]
+        [Writes draft → evidence/story-v1.md]
+        [Self-critiques, iterates → v2, v3...]
         [Runs /verify]
 
-Verifier: FAIL - Missing error handling in auth endpoint
+Verifier: FAIL - Twist is predictable, needs better foreshadowing
 
-Claude: [Addresses gap → evidence/implementation-v4.ts]
+Claude: [Revises → evidence/story-v4.md]
         [Runs /verify]
 
 Verifier: PASS
 
-Claude: [Delivers final implementation]
+Claude: [Delivers polished story]
 ```
 
 ## Commands
