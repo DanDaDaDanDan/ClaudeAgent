@@ -7,6 +7,10 @@ Task-agnostic, iterative work with independent verification. Supports multi-mode
 1. **Fail fast** - Don't try to work around issues. Surface problems immediately rather than papering over them.
 2. **Be curious** - Explore, question assumptions, dig deeper. Curiosity leads to understanding.
 3. **Don't guess, research** - When uncertain, investigate first. If still inconclusive after research, ask the user.
+4. **No mock code** - Never generate placeholder, stub, or mock implementations. Write real, functional code or don't write it at all.
+5. **No silent rollbacks** - Don't fall back to previous approaches or revert changes just because something fails. Surface the failure and wait for explicit direction.
+6. **Finish the job** - Always verify work was completed as requested. Never stop mid-task. If completion is blocked, call it out prominently—don't bury it or move on silently.
+7. **Commit early, commit often** - We use git. Commit after every meaningful change. The revision history is our safety net—we can always go back, so be bold.
 
 ## Commands
 

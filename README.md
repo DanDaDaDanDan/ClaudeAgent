@@ -65,6 +65,10 @@ See `../mcp-gemini/README.md` and `../mcp-fal/README.md` for setup.
 1. **Fail fast** - Surface problems immediately rather than papering over them
 2. **Be curious** - Explore, question assumptions, dig deeper
 3. **Don't guess, research** - When uncertain, investigate first
+4. **No mock code** - Never generate placeholder, stub, or mock implementations
+5. **No silent rollbacks** - Don't fall back or revert just because something fails; wait for explicit direction
+6. **Finish the job** - Always verify work was completed as requested; if blocked, call it out prominently
+7. **Commit early, commit often** - Commit after every change; revision history is our safety net
 
 ## How It Works
 
