@@ -54,11 +54,24 @@ Use different AI models for generation or verification:
 - **verification_model**: claude
 ```
 
-**MCP Servers**:
-- `mcp-gemini` - Text generation with Gemini 3 Pro (thinking/reasoning)
-- `mcp-fal` - Image generation with Nano Banana / Nano Banana Pro (always use for images)
+## MCP Servers
 
-See `../mcp-gemini/README.md` and `../mcp-fal/README.md` for setup.
+Three MCP servers provide specialized capabilities:
+
+| Server | Purpose | Key Tools |
+|--------|---------|-----------|
+| `mcp-gemini` | Thinking, multimodal, research | `generate_text`, `deep_research` |
+| `mcp-fal` | Image generation (use this!) | `generate_image` |
+| `mcp-xai` | Real-time search, social, code | `x_search`, `web_search`, `research`, `code_execute` |
+
+**Quick Reference:**
+- **Images** → Always use `mcp-fal`
+- **Deep thinking** → `mcp-gemini` with `thinking_level: "high"`
+- **Live search/news** → `mcp-xai` (X, web, news combined)
+- **Python execution** → `mcp-xai` `code_execute`
+- **Analyze files** → `mcp-gemini` with `files: [paths]`
+
+See `CLAUDE.md` for detailed MCP architecture and patterns.
 
 ## Philosophy
 
