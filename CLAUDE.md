@@ -85,7 +85,7 @@ Three MCP servers provide specialized capabilities. Each has a clear purpose—a
 - `system_prompt`: Optional system instructions
 - `temperature`: 0-1 (default 0.7)
 
-**Supported file types:** jpg, png, webp, pdf, mp4, mp3, wav, txt, md, json, csv
+**Supported file types:** Images (jpg, png, webp, heic, heif), Audio (wav, mp3, aac, ogg, flac), Video (mp4, mov, avi, webm), Documents (pdf), Text (txt, md, html, json, csv, etc.)
 
 #### mcp-fal (fal.ai)
 
